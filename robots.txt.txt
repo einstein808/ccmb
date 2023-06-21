@@ -1,0 +1,4 @@
+User-agent: *
+
+
+Sitemap: https://ccmb.vercel.app/sitemap.xml  
